@@ -3,7 +3,7 @@
     <section class="section main-banner">
       <div class="h-screen">
         <div class="caption">
-          <img src="../../assets/logo.png" class="mx-auto logo" />
+          <img src="../../assets/3.svg" class="mx-auto logo" />
           <h2><em>Your</em> algotrading bot</h2>
 
         <div>
@@ -40,6 +40,11 @@ export default {
 <style lang="css">
 .landing {
   background-color: var(--main-background);
+}
+
+.logo {
+  height: 86px;
+  margin-bottom: 6rem;
 }
 
 .section-heading {
@@ -80,7 +85,7 @@ export default {
   position: absolute;
   width: 80%;
   left: 50%;
-  top: 30%;
+  top: 40%;
   transform: translate(-50%, -50%);
 }
 

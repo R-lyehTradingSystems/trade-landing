@@ -10,7 +10,7 @@ export default {
 
 <style>
 :root {
-  --main-background: #fff;
+  --main-background: #fefefe;
   --cta-color: #00a985;
   --secondary-color: #fa7964;
   --color: #333;
